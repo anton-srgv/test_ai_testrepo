@@ -1,0 +1,9 @@
+{
+  "url": "https://testai.testit.software",
+  "privateToken": "<TESTIT_PRIVATE_TOKEN>",
+  "projectId": "",
+  "configurationId": "",
+  "adapterMode": "2",
+  "automaticCreationTestCases": "false",
+  "automaticUpdationLinksToTestCases": "false"
+}

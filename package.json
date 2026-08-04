@@ -1,0 +1,21 @@
+{
+  "name": "default-project",
+  "version": "1.0.0",
+  "description": "Autotests for project default-project",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:ui": "playwright test --ui",
+    "install-browsers": "playwright install"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.51.0",
+    "@types/node": "22.13.4",
+    "dotenv": "16.4.5",
+    "@faker-js/faker": "9.9.0",
+    "testit-adapter-playwright": "3.4.3"
+  },
+  "engines": {
+    "node": ">=22.0.0"
+  }
+}
